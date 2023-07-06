@@ -42,3 +42,13 @@ let result2= myAge>yourAge ? myAge-yourAge : yourAge-myAge
 
 console.log('I am '+result2+' years older than you')
 
+
+let birthyear = prompt('What is your birth year ?')
+let age = 2023-birthyear
+let remainingAge = 18-Yas
+
+let driveAge = age>=18 ? 'You are' +age + ' . You are old enough to drive' : 
+    'You are '+ age +' . You will be allowed to drive after ' +remainingAge +' years'
+
+console(driveAge)    
+
