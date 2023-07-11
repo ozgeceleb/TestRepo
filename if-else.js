@@ -5,5 +5,5 @@ if (even%2==1) {
   console.log('This is odd number')
 
 }else{
-console.log('This is odd number')
+console.log('This is even number')
 }            
